@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Programing languages",
+    "home_page_url": "https://paulacores.github.io/jasonrss/",
+    "feed_url": "https://paulacores.github.io/jasonrss/feed/feed.json",
+    "items": [
+    {
+    "id": "2",
+    "content_text": "This is python.",
+    "url": "https://paulacores.github.io/jasonrss/python.html"
+    },
+    {
+    "id": "1",
+    "content_html": "<p>Hello Java!</p>",
+    "url": "https://paulacores.github.io/jasonrss/java.html"
+    }
+    ]
+   }
+   
